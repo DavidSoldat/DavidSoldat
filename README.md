@@ -2,7 +2,7 @@
 👋 Hi there! I'm a recent graduate with a degree in Software Engineering. I am passionate about web app development and exploring web technologies.
 
 ## ⚒️ Currently working on: 
-Home Quest · Real estate platform designed to streamline the process of buying, selling, and renting properties.
+Home Quest · Real estate platform where you can buy, rent or sell your properties.
 
 
 ## 🌐 Connect with me:
