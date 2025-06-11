@@ -3,6 +3,7 @@
 
 ## ⚒️ Currently working on: 
 Home Quest · Real estate platform where you can buy, rent or sell your properties.
+Velura.co · Full-stack luxury clothing E-commerce store
 
 
 ## 🌐 Connect with me:
