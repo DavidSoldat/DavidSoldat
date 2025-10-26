@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a recent graduate with a degree in Software Engineering. I am passionate about web app development and exploring web technologies.
+👋 Hi there! I'm just a regular guy with a degree in Software Engineering. I am passionate about web development and exploring web technologies.
 
 ## ⚒️ Currently working on: 
 Home Quest · Real estate platform where you can buy, rent or sell your properties.
