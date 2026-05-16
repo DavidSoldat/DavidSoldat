@@ -2,8 +2,7 @@
 👋 Hi there! I'm just a Software Engineer, passionate about web development and exploring web technologies.
 
 ## ⚒️ Currently working on: 
-Home Quest · Real estate platform where you can buy, rent or sell your properties.
-Velura.co · Full-stack luxury clothing E-commerce store
+All kinds of projects
 
 
 ## 🌐 Connect with me:
