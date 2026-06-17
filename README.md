@@ -2,7 +2,7 @@
 👋 Hi there! I'm just a Software Engineer, passionate about web development and exploring web technologies.
 
 ## ⚒️ Currently working on: 
-All kinds of projects
+All kinds of things
 
 
 ## 🌐 Connect with me:
